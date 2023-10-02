@@ -3,22 +3,16 @@
 ## Introduction
 
 This is the anonymized repo of our paper for ICLR 2014.
+The main purpose of this repo is to enable reviewers to confirm reproducibility using code and input data for our evaluation result.
 
-## Video
+## Datasets
+https://drive.google.com/drive/folders/1QLl3o_xT0_zUETv0Acyj_iEA_ckkZzkI?usp=sharing
 
-A vide of our paper:
+## Models
+https://drive.google.com/drive/folders/11o2AxG3sr-NeirLDm-TF3R9RLLvXB3yy?usp=sharing
 
-<img src="./assets/demo.gif" alt="demo" width="480" align="left;">
+### Instructions 
 
-## Dataset
-
-
-### Download Instructions 
-
-
-## Code
-
-
-
-
-
+1. Download dataset and models from the link above.
+2. Place both folders ("Datasets" and "Models") on the same directory.
+4. Go to the Model folder and run test.sh. Then the evaluation result will be created
