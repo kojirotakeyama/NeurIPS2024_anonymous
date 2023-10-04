@@ -21,4 +21,5 @@ The material contain items below.
 5. If you try training the models, run "training_vrlocomotion2.py" in each model folder.
 
 ### Note
-- We are planning to publish our dataset and codes on a website after we organized them.
+- Dataset in the link above contains only 2D trajectories of pedestrians, which is a part of our dataset.
+- We are planning to publish our full dataset (3D position/pose of 6 body parts) and test codes on a website after a while.
