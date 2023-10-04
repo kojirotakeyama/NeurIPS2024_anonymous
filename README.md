@@ -9,9 +9,9 @@ All the materials can be accessed by following link. (Approximately 2GB)
 [https://drive.google.com/drive/folders/1QLl3o_xT0_zUETv0Acyj_iEA_ckkZzkI?usp=sharing](https://drive.google.com/drive/folders/1uFB5anbFJQ-Jd_fBJ7Api5iO7MnHM3TX)
 
 The material contain items below.
-- Datasets (Input data)
-- Code (for both evaluation and training) and trained models
-- Shell script for the evaluation
+- Datasets (Loco3D, Loco3D-R, GIMO)
+- Code (for both evaluation and training) and trained models for three trials
+- Shell script to run the evaluation
 
 ### Instructions 
 
@@ -21,5 +21,5 @@ The material contain items below.
 5. If you try training the models, run "training_vrlocomotion2.py" in each model folder.
 
 ### Note
-- Dataset in the link above contains only 2D trajectories of pedestrians, which is a part of our dataset.
+- Dataset in the link above contains 2D trajectories of pedestrians, which is used in our evaluations.
 - We are planning to publish our full dataset (3D position/pose of 6 body parts) and test codes on a website after a while.
