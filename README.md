@@ -15,10 +15,10 @@ The material contain items below.
 
 ### Instructions 
 
-1. Download the material from the link above.
-2. "pip install -r requirement.txt" to install the libraries necessar for the code
-4. To get the evaluation result, run "evaluate.sh". Then the evaluation result will be created as csv files.
-5. If you need to try training the models, run "training_vrlocomotion2.py" in each model folder.
+1. Download the materials from the link above.
+2. "pip install -r requirement.txt" to install the libraries necessar to run the code.
+4. Run "evaluate.sh" to get the evaluation result. The evaluation result will be created as csv files.
+5. If you try training the models, run "training_vrlocomotion2.py" in each model folder.
 
 ### Note
 - We are planning to publish our dataset and codes on a website after we organized them.
