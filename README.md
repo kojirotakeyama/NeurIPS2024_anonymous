@@ -1,8 +1,8 @@
-# Loco3D: Indoor Multiuser Locomotion 3D Dataset (ICLR 2024)
+# LocoVR: Multiuser Indoor Locomotion Dataset (NeurIPS 2024)
 
 ## Introduction
 
-This is the anonymized repo for our paper at ICLR 2024.
+This is the anonymized repo for our paper at NeurIPS 2024.
 The purpose of this repo is to allow reviewers to confirm the reproducibility of our evaluation results in the main paper.
 
 All materials are available at the following link.
@@ -11,7 +11,7 @@ All materials are available at the following link.
 
 
 The material includes the following items.
-- Datasets (Loco3D, Loco3D-R, GIMO)
+- Datasets (LocoVR, THOR-MAGNI, GIMO)
 - Code (for both evaluation and training) and trained models for three experiments
 - Shell script to run the evaluation
 
