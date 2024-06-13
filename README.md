@@ -7,7 +7,7 @@ The purpose of this repo is to allow reviewers to confirm the reproducibility of
 
 All materials are available at the following link.
 
-[Materials for the evaluation](https://drive.google.com/drive/folders/14L3F231hmZ0kZd6U8zGw6_4tY3JR9cnZ?usp=drive_link)
+[Materials for evaluation in the main paper](https://drive.google.com/drive/folders/14L3F231hmZ0kZd6U8zGw6_4tY3JR9cnZ?usp=drive_link)
 
 
 The material includes the following items.
