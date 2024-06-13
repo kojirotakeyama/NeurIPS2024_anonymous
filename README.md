@@ -18,7 +18,7 @@ The material includes the following items.
 ## Instructions 
 
 1. Download the folder "Evaluation_main_paper_NeurIPS2024" from the above link.
-2. "pip install -r requirement.txt" to install the libraries needed to run the code.
+2. "pip install -r requirement.txt" to install the libraries needed to run the code. (python_ver=3.8.1, cuda_ver=12.1)
 3. Run "evaluate.sh" to get the evaluation result shown in the paper. The evaluation results are created with csv files in each task folder: "Global_Path_Prediction", "Trajectory_Prediction", "Goal_Prediction".
 4. If you want to train the models, run "training_vrlocomotion2.py" in each model folder.
 
