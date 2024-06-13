@@ -1,4 +1,4 @@
-# LocoVR: Multiuser Indoor Locomotion Dataset (NeurIPS 2024)
+# LocoVR: Multiuser Indoor Locomotion Dataset in Virtual Reality (NeurIPS 2024)
 
 ## Introduction
 
